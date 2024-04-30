@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: eCourse
+    runtime: docker
+    repo: https://github.com/qwerzl/eCourse
