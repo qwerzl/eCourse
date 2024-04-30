@@ -1,0 +1,7 @@
+{
+  "name": "eCourse",
+  "description": "A self-hosted SPA to simplify course creation and management",
+  "repository": "https://github.com/qwerzl/eCourse",
+  "logo": "https://github.com/qwerzl/eCourse/raw/main/ui/public/favicon.svg",
+  "keywords": ["pocketbase"]
+}
